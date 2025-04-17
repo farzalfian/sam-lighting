@@ -55,6 +55,15 @@ export default function Footer() {
             </a>
           </p>
           <p className="text-sm mt-2 leading-relaxed">
+            Instagram:{" "}
+            <a
+              href="https://www.instagram.com/lighting_sam?igsh=MW9pMDk4Ynp5MG1seg=="
+              className="hover:text-yellow-400 transition-colors duration-300"
+            >
+              @lighting_sam
+            </a>
+          </p>
+          <p className="text-sm mt-2 leading-relaxed">
             Email:{" "}
             <a
               href="mailto:info@rental-lighting.com"

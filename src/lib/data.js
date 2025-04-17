@@ -18,22 +18,22 @@ export const featuredProducts = [
       category: 'lighting'
     },
     {
-      id: 'speaker1',
-      name: 'Speaker JBL PRX 15"',
-      description: 'Speaker aktif 15 inch dengan output 1000W, ideal untuk ruangan sedang hingga besar',
+      id: 'mixer1',
+      name: 'Avolites Tiger Touch II"',
+      description: 'Avolites Tiger Touch II adalah konsol pencahayaan profesional dengan layar sentuh dan kontrol intuitif, ideal untuk berbagai acara besar.',
       price: 250000,
       originalPrice: null,
-      image: '/images/products/sound/speaker.jpg',
-      category: 'sound'
+      image: '/images/products/lighting/2.jpeg',
+      category: 'lighting'
     },
     
     {
-      id: 'mixer1',
-      name: 'Audio Mixer Yamaha MG16XU',
-      description: 'Mixer 16 channel dengan efek dan USB interface untuk berbagai kebutuhan audio',
+      id: 'moving2',
+      name: 'Moving Dage AK 450',
+      description: 'Moving head beam dengan efek cahaya bergerak untuk panggung dan event special',
       price: 200000,
       originalPrice: null,
-      image: '/images/products/sound/mixer.jpg',
-      category: 'sound'
+      image: '/images/products/lighting/6.jpeg',
+      category: 'lighting'
     }
   ];

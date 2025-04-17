@@ -65,7 +65,7 @@ export default function Footer() {
           </p>
           <h3 className="text-lg font-semibold mt-6 mb-4 text-white">Lokasi Kami</h3>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.150932362777!2d106.91404641528117!3d-6.319974995419312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed74d7bfc5b7%3A0xa881bd0291762765!2sJl.%20Bambu%20Apus%20Raya%20No.14%2C%20RT.3%2FRW.3%2C%20Bambu%20Apus%2C%20Kec.%20Cipayung%2C%20Kota%20Jakarta%20Timur%2C%20DKI%20Jakarta%2013890!5e0!3m2!1sen!2sid!4v1687962438577!5m2!1sen!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.7510301972818!2d106.90292887650352!3d-6.327767996588177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8396093982897c20!2sSam%20Lighting!5e0!3m2!1sen!2sid!4v1687962438577!5m2!1sen!2sid"
             width="100%"
             height="200"
             allowFullScreen=""

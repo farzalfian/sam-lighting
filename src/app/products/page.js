@@ -7,14 +7,14 @@ export default function ProductsPage() {
       id: 'lighting',
       name: 'Lighting Equipment',
       description: 'Explore high-quality lights for your events, from stage lighting to decorative effects.',
-      image: '/images/products/lighting/category.jpg',
+      image: '/images/hero-background.jpg',
       link: '/products/lighting',
     },
     {
       id: 'sound',
       name: 'Sound System',
       description: 'Premium sound systems for clear, impactful audio at any event.',
-      image: '/images/products/sound/category.jpg',
+      image: '/images/sound.jpg',
       link: '/products/sound',
     },
     {
@@ -39,7 +39,7 @@ export default function ProductsPage() {
         {/* Hero Section */}
         <div className="relative h-[60vh] md:h-[80vh] shadow-xl rounded-lg overflow-hidden mb-12">
           <Image
-            src="/images/hero-products.jpg"
+            src="/images/hero-background2.jpg"
             alt="Our Products"
             fill
             className="object-cover brightness-75 transition-transform duration-500 hover:scale-105"

@@ -10,7 +10,7 @@ export const featuredProducts = [
     },
     {
       id: 'moving1',
-      name: 'Moving Head Beam 7R',
+      name: 'Moving Head XM Lite 350',
       description: 'Moving head beam dengan efek cahaya bergerak untuk panggung dan event special',
       price: 500000,
       originalPrice: null,

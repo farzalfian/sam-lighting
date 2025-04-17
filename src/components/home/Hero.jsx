@@ -16,7 +16,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-background.jpg"
+          src="/images/hero-background2.jpg"
           alt="Lighting and Sound System"
           className="w-full h-full object-cover brightness-75 transition-transform duration-500 hover:scale-105"
         />

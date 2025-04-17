@@ -6,13 +6,13 @@ export default function Categories() {
     {
       id: 'lighting',
       name: 'LIGHTING EQUIPMENT',
-      image: '/images/products/lighting/category.jpg',
+      image: '/images/hero-background.jpg',
       url: '/products/lighting'
     },
     {
       id: 'sound',
       name: 'SOUND SYSTEM',
-      image: '/images/products/sound/category.jpg',
+      image: '/images/sound.jpg',
       url: '/products/sound'
     },
     {

@@ -20,8 +20,8 @@ export default function Navbar() {
           <Image
             src="/images/logo.png" // Replace with the actual path to your logo
             alt="SAM LIGHTING Logo"
-            width={90} // Adjusted width
-            height={30} // Adjusted height
+            width={70} // Adjusted width
+            height={20} // Adjusted height
             className="object-contain ml-0" // Ensure the logo stays left-aligned
           />
         </Link>
@@ -44,8 +44,7 @@ export default function Navbar() {
           <NavItem href="/" label="HOME" />
           <NavItem href="/products" label="PRODUCTS" />
           <NavItem href="/products/lighting" label="LIGHTING" />
-          <NavItem href="/products/sound" label="SOUND SYSTEM" />
-          <NavItem href="/about" label="ABOUT US" />
+          <NavItem href="/products/sound" label="SOUND" />
           <NavItem href="/contact" label="CONTACT US" />
         </ul>
       </div>

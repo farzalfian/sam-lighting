@@ -6,14 +6,14 @@ export default function LightingPage() {
       id: 'parled1',
       name: 'PAR LED 54x3W RGBW',
       description: 'Lampu sorot warna dengan 54 LED, dapat berubah warna untuk berbagai kebutuhan event. Ideal untuk stage lighting dan dekorasi.',
-      image: '/images/products/lighting/parled.jpg',
+      image: '/images/products/lighting/3.jpeg',
       category: 'lighting'
     },
     {
       id: 'moving1',
-      name: 'Moving Head Beam 7R',
+      name: 'Moving Head XM Lite 350',
       description: 'Moving head beam dengan efek cahaya bergerak untuk panggung dan event special. Menawarkan pergerakan cepat dan presisi tinggi.',
-      image: '/images/products/lighting/movinghead.jpg',
+      image: '/images/products/lighting/1.jpeg',
       category: 'lighting'
     },
     {
@@ -59,7 +59,7 @@ export default function LightingPage() {
         {/* Hero Section */}
         <div className="relative h-[60vh] md:h-[80vh] mb-12 shadow-xl rounded-lg overflow-hidden">
           <Image
-            src="/images/hero-background.jpg"
+            src="/images/hero-background2.jpg"
             alt="Lighting Equipment"
             fill
             className="object-cover brightness-75 transition-transform duration-500 hover:scale-105"

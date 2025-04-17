@@ -51,7 +51,7 @@ export default function Footer() {
               href="https://wa.me/6281316640961"
               className="text-green-400 hover:underline transition-all duration-300"
             >
-              +62 812-3456-7890
+              +62 813-1664-0961
             </a>
           </p>
           <p className="text-sm mt-2 leading-relaxed">

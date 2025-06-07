@@ -4,7 +4,7 @@
     import SearchBar from '../ui/SearchBar';
 
     export default function Header() {
-    const whatsappNumber = "6281316640961"; // Ganti dengan nomor WhatsApp Anda
+    const whatsappNumber = "6281316640961";
     
     return (
         <header className="bg-black text-white">

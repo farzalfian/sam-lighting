@@ -28,7 +28,7 @@ export default function ProductsPage() {
       id: 'packages',
       name: 'Packages',
       description: 'Pre-built bundles designed for a hassle-free setup and excellent results.',
-      image: '/images/products/packages/category.jpg',
+      image: '/images/packages.jpg',
       link: '/products/packages',
     },
   ];

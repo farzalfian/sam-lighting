@@ -18,7 +18,7 @@ export default function Categories() {
     {
       id: 'packages',
       name: 'PACKAGES',
-      image: '/images/products/packages/category.jpg',
+      image: '/images/packages.jpg',
       url: '/products/packages'
     }
   ];

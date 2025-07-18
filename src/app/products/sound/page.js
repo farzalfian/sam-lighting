@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import { useState } from 'react';
 import { featuredProducts } from '@/lib/data2';
+import { Typewriter } from 'react-simple-typewriter';
 
 export default function SoundPage() {
   const soundProducts = featuredProducts.filter(
@@ -14,18 +15,30 @@ export default function SoundPage() {
   return (
     <div className="bg-gradient-to-b from-gray-900 to-black py-12">
       <div className="container mx-auto px-6">
-        
         {/* Hero Section */}
         <div className="relative h-[60vh] md:h-[80vh] mb-12 shadow-xl rounded-lg overflow-hidden">
           <Image
-            src="/images/music.jpg" // ganti jika punya gambar hero sound khusus
+            src="/images/music.jpg"
             alt="Sound Equipment"
             fill
             className="object-cover brightness-75 transition-transform duration-500 hover:scale-105"
           />
           <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4 bg-gradient-to-b from-transparent to-black/70">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-yellow-400 drop-shadow-lg">
-              SOUND EQUIPMENT
+              <Typewriter
+                words={[
+                  'SOUND EQUIPMENT',
+                  'SPEAKER SYSTEM',
+                  'AUDIO TERBAIK',
+                  'PAKET SOUND FULLSET',
+                ]}
+                loop={0}
+                cursor
+                cursorStyle="|"
+                typeSpeed={100}
+                deleteSpeed={60}
+                delaySpeed={1500}
+              />
             </h1>
             <p className="text-gray-300 text-lg md:text-xl mt-4">
               Solusi audio terbaik untuk setiap acara Anda

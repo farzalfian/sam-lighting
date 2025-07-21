@@ -6,7 +6,7 @@ import { Typewriter } from 'react-simple-typewriter';
 import { motion } from 'framer-motion';
 
 export default function Hero() {
-  const whatsappNumber = '628136640961';
+  const whatsappNumber = '6281316640961';
   const whatsappMessage = encodeURIComponent(
     `Halo SAM-LIGHTING, saya tertarik untuk memanfaatkan promo spesial. Berikut adalah informasi saya:\n- Nama: [Isi Nama Anda]\n- Acara: [Jenis Acara]\n- Tanggal Acara: [Tanggal Acara]\n- Alat yang ingin dipesan: [Nama Alat]\nMohon informasi lebih lanjut. Terima kasih!`
   );
